@@ -1,0 +1,6 @@
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\bin\Debug\task01.exe.config
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\bin\Debug\task01.exe
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\bin\Debug\task01.pdb
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\obj\Debug\task01.csprojResolveAssemblyReference.cache
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\obj\Debug\task01.exe
+D:\Андрей\studio\3 курс\PR (Сист)\pr11\task01\obj\Debug\task01.pdb
